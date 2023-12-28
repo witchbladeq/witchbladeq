@@ -3,6 +3,9 @@
 
   <h1>
     <img src="https://komarev.com/ghpvc/?username=witchbladeq&style=flat-square&color=blue" alt=""/><br>
+    <p align="center">
+      <a href="https://www.buymeacoffee.com/wbqx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+    </p>
     hey there
     <img src="https://media1.giphy.com/media/4llkdZu74bwJJCL6CT/giphy.gif" width="30px"/>
   </h1>
