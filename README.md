@@ -9,9 +9,7 @@
 </div>
 
 
-<div id="midle" align="center">
-  ### 🛠️ Languages and Tools :
+  ### 👨‍💻: About me:
     I'm Fullstack developer
   
   ### 🛠️ Languages and Tools :
-</div>
