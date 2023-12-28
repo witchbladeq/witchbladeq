@@ -3,11 +3,9 @@
 
   <h1>
     <img src="https://komarev.com/ghpvc/?username=witchbladeq&style=flat-square&color=blue" alt=""/>
-  </h1>
-
-  <h1>
     hey there
     <img src="https://media1.giphy.com/media/4llkdZu74bwJJCL6CT/giphy.gif" width="30px"/>
   </h1>
-
 </div>
+
+
