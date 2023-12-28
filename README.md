@@ -2,6 +2,6 @@
   <img src="https://media4.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif?cid=ecf05e47cv3no8j0i0rj4692v4m46owlnfy2eejpkjajrtyg&ep=v1_stickers_search&rid=giphy.gif" width="100"/>
 </div>
 <h1>
-  Witchbladeq
-  <img src="https://giphy.com/embed/4llkdZu74bwJJCL6CT" width="30px"/>
+  hey there
+  <img src="https://media1.giphy.com/media/4llkdZu74bwJJCL6CT/giphy.gif" width="30px"/>
 </h1>
